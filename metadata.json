@@ -1,0 +1,6 @@
+{
+  "name": "Haryanvi Ragni & Beats - Haryanvi Songs Playlist",
+  "description": "Stream the best Haryanvi songs, DJ blast remixes, desi swag hits, and classic folk ragni with lyrics, bass boost, and custom playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
